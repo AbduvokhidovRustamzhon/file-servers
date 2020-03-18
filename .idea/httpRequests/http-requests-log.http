@@ -1,0 +1,705 @@
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\Admin\AppData\Local\Temp\http_request_input_file14762.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\Admin\AppData\Local\Temp\http_request_input_file11.txt
+--WebAppBoundary--
+
+<> 2020-03-18T055020.200.html
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\Admin\AppData\Local\Temp\http_request_input_file8.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\Admin\AppData\Local\Temp\http_request_input_file9.txt
+--WebAppBoundary--
+
+<> 2020-03-18T054123.200.html
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\Admin\AppData\Local\Temp\http_request_input_file10.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\Admin\AppData\Local\Temp\http_request_input_file7.txt
+--WebAppBoundary--
+
+<> 2020-03-18T054101.200.html
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\Admin\AppData\Local\Temp\http_request_input_file1.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\Admin\AppData\Local\Temp\http_request_input_file2.txt
+--WebAppBoundary--
+
+<> 2020-03-18T054035.200.html
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file973.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file818.txt
+--WebAppBoundary--
+
+<> 2020-03-13T012513.200.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file26.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file588.txt
+--WebAppBoundary--
+
+<> 2020-03-13T011236.200.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file303.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file565.txt
+--WebAppBoundary--
+
+<> 2020-03-13T011003.200.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file741.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file65.txt
+--WebAppBoundary--
+
+<> 2020-03-13T010426.200.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file326.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file908.txt
+--WebAppBoundary--
+
+<> 2020-03-13T125708.200.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file755.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file85.txt
+--WebAppBoundary--
+
+<> 2020-03-13T125330.200.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file843.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file1056.txt
+--WebAppBoundary--
+
+<> 2020-03-13T122248.200.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file143.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file203.txt
+--WebAppBoundary--
+
+<> 2020-03-13T121748.200.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file1010.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file998.txt
+--WebAppBoundary--
+
+<> 2020-03-13T121457.200.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file801.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file16.txt
+--WebAppBoundary--
+
+<> 2020-03-13T121339.200.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file478.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file182.txt
+--WebAppBoundary--
+
+<> 2020-03-13T120555.200.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file464.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file76.txt
+--WebAppBoundary--
+
+<> 2020-03-13T120515.200.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file675.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file743.txt
+--WebAppBoundary--
+
+<> 2020-03-12T115635.200.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file331.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file123.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file25.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file682.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file271.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file542.txt
+--WebAppBoundary--
+
+<> 2020-03-12T114231.200.txt
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file62.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file813.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file660.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file650.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file229.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file402.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file364.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file637.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file10.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file128.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file477.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file425.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="hello"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file4.txt
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="bye"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file8.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"
+Content-Type: text/plain
+
+Hello world
+--WebAppBoundary
+Content-Disposition: form-data; name="file"
+Content-Type: text/plain
+
+asdfsdf
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"
+Content-Type: text/plain
+
+Hello world
+--WebAppBoundary
+Content-Disposition: form-data; name="file"
+Content-Type: text/plain
+
+asdfsdf
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"
+Content-Type: text/plain
+
+Hello world
+--WebAppBoundary
+Content-Disposition: form-data; name="file"
+Content-Type: text/plain
+
+asdfsdf
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"
+Content-Type: text/plain
+
+Hello world
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="file"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file7.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"
+Content-Type: text/plain
+
+Hello world
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="file"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file5.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"
+Content-Type: text/plain
+
+Hello world
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="file"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file11.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"
+Content-Type: text/plain
+
+Hello world
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="file"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file6.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="element-name"
+Content-Type: text/plain
+
+Hello world
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="asdf"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file3.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=123456789
+Content-Length: 222
+
+--123456789
+Content-Disposition: form-data; name="element-name"
+Content-Type: text/plain
+
+Hello world
+--123456789
+Content-Disposition: form-data; name="data"; filename="data.json"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file9.txt
+--123456789--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=123456789
+Content-Length: 222
+
+--123456789
+Content-Disposition: form-data; name="element-name"
+Content-Type: text/plain
+
+Hello world
+--123456789
+Content-Disposition: form-data; name="data"; filename="data.json"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file2.txt
+--123456789--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="element-name"
+Content-Type: text/plain
+
+Hello world
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="data.json"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file1.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+
+--WebAppBoundary
+Content-Disposition: form-data; name="element-name"
+Content-Type: text/plain
+
+Hello world
+--WebAppBoundary
+Content-Disposition: form-data; name="data"; filename="data.json"
+Content-Type: text/plain
+
+< C:\Users\admin\AppData\Local\Temp\http_request_input_file.txt
+--WebAppBoundary--
+
+###
+
+POST http://localhost:9999/api/files
+
+###
+
